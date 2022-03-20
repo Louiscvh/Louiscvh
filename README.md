@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Louis Cavecchi</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h1>Hi 👋, I'm Louis Cavecchi</h1>
+<h3>A passionate frontend developer from France</h3>
 
 - 🔭 I’m currently working on [a portfolio](www.linablidi.fr)
 
