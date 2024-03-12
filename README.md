@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [www.louiscavecchi.fr](www.louiscavecchi.fr)
+- 👨‍💻 All of my projects are available at [www.louiscavecchi.fr](www.louiscavecchi.com)
 
 - 📫 How to reach me **cavecchilouis@gmail.com**
 
